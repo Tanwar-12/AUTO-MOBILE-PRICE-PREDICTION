@@ -1,6 +1,8 @@
 # *MACHINE LEARNING PROJECT*
 ## **AUTO-MOBILE PRICE PREDICTION**
 
+![image](https://github.com/Tanwar-12/AUTO-MOBILE-PRICE-PREDICTION/assets/110081008/bfd2ebe8-1ddb-4112-ac51-3100c8be90ed)![image](https://github.com/Tanwar-12/AUTO-MOBILE-PRICE-PREDICTION/assets/110081008/6016cab2-f2e3-4c37-b4ce-309c65643ad8)
+
 
 
 
